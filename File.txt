@@ -1,1 +1,3 @@
 Scenario 1 : Login to the page
+
+Scenario 2 : Enter the username
